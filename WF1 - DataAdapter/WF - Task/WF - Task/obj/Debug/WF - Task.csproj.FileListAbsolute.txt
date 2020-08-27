@@ -1,0 +1,10 @@
+D:\ШАГ\Програмування\ADO\2 - Adapter\WF - Task\WF - Task\bin\Debug\WF - Task.exe.config
+D:\ШАГ\Програмування\ADO\2 - Adapter\WF - Task\WF - Task\bin\Debug\WF - Task.exe
+D:\ШАГ\Програмування\ADO\2 - Adapter\WF - Task\WF - Task\bin\Debug\WF - Task.pdb
+D:\ШАГ\Програмування\ADO\2 - Adapter\WF - Task\WF - Task\obj\Debug\WF - Task.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO\2 - Adapter\WF - Task\WF - Task\obj\Debug\WF___Task.Form1.resources
+D:\ШАГ\Програмування\ADO\2 - Adapter\WF - Task\WF - Task\obj\Debug\WF___Task.Properties.Resources.resources
+D:\ШАГ\Програмування\ADO\2 - Adapter\WF - Task\WF - Task\obj\Debug\WF - Task.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\ADO\2 - Adapter\WF - Task\WF - Task\obj\Debug\WF - Task.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO\2 - Adapter\WF - Task\WF - Task\obj\Debug\WF - Task.exe
+D:\ШАГ\Програмування\ADO\2 - Adapter\WF - Task\WF - Task\obj\Debug\WF - Task.pdb
