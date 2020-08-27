@@ -1,0 +1,15 @@
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\bin\Debug\WPF 1 - WindowsOrServerAuthentication.exe.config
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\bin\Debug\WPF 1 - WindowsOrServerAuthentication.exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\bin\Debug\WPF 1 - WindowsOrServerAuthentication.pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\WPF 1 - WindowsOrServerAuthentication.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\MainWindow.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\App.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\WPF 1 - WindowsOrServerAuthentication_MarkupCompile.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\WPF 1 - WindowsOrServerAuthentication_MarkupCompile.lref
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\MainWindow.baml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\WPF 1 - WindowsOrServerAuthentication.g.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\WPF_1___WindowsOrServerAuthentication.Properties.Resources.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\WPF 1 - WindowsOrServerAuthentication.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\WPF 1 - WindowsOrServerAuthentication.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\WPF 1 - WindowsOrServerAuthentication.exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 1 - WindowsOrServerAuthentication\WPF 1 - WindowsOrServerAuthentication\obj\Debug\WPF 1 - WindowsOrServerAuthentication.pdb
