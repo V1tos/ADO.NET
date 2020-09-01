@@ -1,0 +1,12 @@
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\bin\Debug\EF 1 - University.exe.config
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\bin\Debug\EF 1 - University.exe
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\bin\Debug\EF 1 - University.pdb
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\bin\Debug\EntityFramework.dll
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\bin\Debug\EntityFramework.xml
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\obj\Debug\EF 1 - University.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\obj\Debug\EF 1 - University.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\obj\Debug\EF 1 - University.csproj.CopyComplete
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\obj\Debug\EF 1 - University.exe
+D:\ШАГ\Програмування\ADO.Net - HT\EF 1 - University\EF 1 - University\obj\Debug\EF 1 - University.pdb

@@ -1,0 +1,7 @@
+D:\ШАГ\Програмування\ADO.Net - HT\CA1 - LINQ\CA1 - LINQ\obj\Debug\CA1 - LINQ.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\CA1 - LINQ\CA1 - LINQ\obj\Debug\CA1 - LINQ.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\CA1 - LINQ\CA1 - LINQ\bin\Debug\CA1 - LINQ.exe.config
+D:\ШАГ\Програмування\ADO.Net - HT\CA1 - LINQ\CA1 - LINQ\bin\Debug\CA1 - LINQ.exe
+D:\ШАГ\Програмування\ADO.Net - HT\CA1 - LINQ\CA1 - LINQ\bin\Debug\CA1 - LINQ.pdb
+D:\ШАГ\Програмування\ADO.Net - HT\CA1 - LINQ\CA1 - LINQ\obj\Debug\CA1 - LINQ.exe
+D:\ШАГ\Програмування\ADO.Net - HT\CA1 - LINQ\CA1 - LINQ\obj\Debug\CA1 - LINQ.pdb
