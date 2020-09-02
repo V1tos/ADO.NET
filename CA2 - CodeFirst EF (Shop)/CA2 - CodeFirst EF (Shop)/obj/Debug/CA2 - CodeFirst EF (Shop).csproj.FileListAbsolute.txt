@@ -1,0 +1,14 @@
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\bin\Debug\CA2 - CodeFirst EF (Shop).exe.config
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\bin\Debug\CA2 - CodeFirst EF (Shop).exe
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\bin\Debug\CA2 - CodeFirst EF (Shop).pdb
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\bin\Debug\EntityFramework.dll
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\bin\Debug\EntityFramework.xml
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\obj\Debug\CA2 - CodeFirst EF (Shop).csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\obj\Debug\CA2 - CodeFirst EF (Shop).csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\obj\Debug\CA2 - CodeFirst EF (Shop).csproj.CopyComplete
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\obj\Debug\CA2 - CodeFirst EF (Shop).exe
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\obj\Debug\CA2 - CodeFirst EF (Shop).pdb
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\obj\Debug\CA2___CodeFirst_EF__Shop_.Migrations.createdb.resources
+D:\ШАГ\Програмування\ADO.Net - HT\CA2 - CodeFirst EF (Shop)\CA2 - CodeFirst EF (Shop)\obj\Debug\CA2 - CodeFirst EF (Shop).csproj.GenerateResource.cache

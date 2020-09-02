@@ -1,0 +1,15 @@
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\bin\Debug\WPF 2 - Params.exe.config
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\bin\Debug\WPF 2 - Params.exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\bin\Debug\WPF 2 - Params.pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\WPF 2 - Params.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\MainWindow.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\App.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\WPF 2 - Params_MarkupCompile.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\WPF 2 - Params_MarkupCompile.lref
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\MainWindow.baml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\WPF 2 - Params.g.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\WPF_2___Params.Properties.Resources.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\WPF 2 - Params.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\WPF 2 - Params.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\WPF 2 - Params.exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 2 - Params\WPF 2 - Params\obj\Debug\WPF 2 - Params.pdb
