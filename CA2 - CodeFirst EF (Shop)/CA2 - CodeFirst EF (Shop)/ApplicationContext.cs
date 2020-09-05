@@ -12,7 +12,7 @@ namespace CA2___CodeFirst_EF__Shop_
     {
         public ApplicationContext(): base("name=defaultConnection")
         {
-
+            Database.SetInitializer(new ShopInitializer());
         }
 
         public DbSet<Client> Clients { get; set; }

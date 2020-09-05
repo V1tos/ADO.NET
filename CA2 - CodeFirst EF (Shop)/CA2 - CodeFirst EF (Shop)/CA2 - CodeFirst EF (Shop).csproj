@@ -60,6 +60,7 @@
     <Compile Include="Entities\Manufacture.cs" />
     <Compile Include="Entities\Order.cs" />
     <Compile Include="Entities\Product.cs" />
+    <Compile Include="Entities\ShopInitializer.cs" />
     <Compile Include="Migrations\202009021205228_create db.cs" />
     <Compile Include="Migrations\202009021205228_create db.designer.cs">
       <DependentUpon>202009021205228_create db.cs</DependentUpon>
