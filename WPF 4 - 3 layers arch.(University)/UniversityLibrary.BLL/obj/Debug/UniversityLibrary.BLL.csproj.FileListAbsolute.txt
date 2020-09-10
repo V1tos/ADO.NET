@@ -1,0 +1,14 @@
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.BLL.dll
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.BLL.pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\bin\Debug\AutoMapper.dll
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.DAL.dll
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\bin\Debug\EntityFramework.dll
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.DAL.pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\bin\Debug\UniversityLibrary.DAL.dll.config
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\bin\Debug\AutoMapper.xml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\bin\Debug\EntityFramework.xml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\obj\Debug\UniversityLibrary.BLL.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\obj\Debug\UniversityLibrary.BLL.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\obj\Debug\UniversityLibrary.BLL.csproj.CopyComplete
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\obj\Debug\UniversityLibrary.BLL.dll
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.BLL\obj\Debug\UniversityLibrary.BLL.pdb

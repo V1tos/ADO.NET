@@ -1,0 +1,2 @@
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\WPF 4 - 3 layers arch.(University)\obj\Debug\WPF 4 - 3 layers arch.(University).csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\WPF 4 - 3 layers arch.(University)\obj\Debug\WPF 4 - 3 layers arch.(University).csproj.CoreCompileInputs.cache

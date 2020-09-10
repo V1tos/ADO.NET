@@ -1,0 +1,12 @@
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.dll.config
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.dll
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\bin\Debug\UniversityLibrary.DAL.pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\bin\Debug\EntityFramework.dll
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\bin\Debug\EntityFramework.xml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.csproj.CopyComplete
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.dll
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 4 - 3 layers arch.(University)\UniversityLibrary.DAL\obj\Debug\UniversityLibrary.DAL.pdb
