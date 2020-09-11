@@ -1,0 +1,17 @@
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\WPF 7 - CRUD (AsyncDelegates).csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\MainWindow.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\Window1.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\App.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\WPF 7 - CRUD (AsyncDelegates)_MarkupCompile.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\WPF 7 - CRUD (AsyncDelegates)_MarkupCompile.lref
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\bin\Debug\WPF 7 - CRUD (AsyncDelegates).exe.config
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\bin\Debug\WPF 7 - CRUD (AsyncDelegates).exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\bin\Debug\WPF 7 - CRUD (AsyncDelegates).pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\MainWindow.baml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\Window1.baml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\WPF 7 - CRUD (AsyncDelegates).g.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\WPF_7___CRUD__AsyncDelegates_.Properties.Resources.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\WPF 7 - CRUD (AsyncDelegates).csproj.GenerateResource.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\WPF 7 - CRUD (AsyncDelegates).csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\WPF 7 - CRUD (AsyncDelegates).exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 7 - CRUD (AsyncDelegates)\WPF 7 - CRUD (AsyncDelegates)\obj\Debug\WPF 7 - CRUD (AsyncDelegates).pdb
