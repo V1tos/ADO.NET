@@ -1,0 +1,17 @@
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\bin\Debug\WPF 5 - CRUD (University).exe.config
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\bin\Debug\WPF 5 - CRUD (University).exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\bin\Debug\WPF 5 - CRUD (University).pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\WPF 5 - CRUD (University).csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\MainWindow.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\App.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\WPF 5 - CRUD (University)_MarkupCompile.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\WPF 5 - CRUD (University)_MarkupCompile.lref
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\MainWindow.baml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\WPF 5 - CRUD (University).g.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\WPF_5___CRUD__University_.Properties.Resources.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\WPF 5 - CRUD (University).csproj.GenerateResource.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\WPF 5 - CRUD (University).csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\WPF 5 - CRUD (University).exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\WPF 5 - CRUD (University).pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\Window1.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (University)\obj\Debug\Window1.baml
