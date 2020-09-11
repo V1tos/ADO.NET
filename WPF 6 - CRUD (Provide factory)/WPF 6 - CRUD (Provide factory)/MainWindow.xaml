@@ -1,0 +1,31 @@
+﻿<Window x:Class="WPF_6___CRUD__Provide_factory_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_6___CRUD__Provide_factory_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+
+        <ListBox x:Name="lbStudents"/>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button Height="40" Margin="10" Grid.Column="0" Content="Create"  Click="btnCreate_Click"/>
+            <Button Height="40" Margin="10" Grid.Column="1" Content="Read"  Click="btnRead_Click"/>
+            <Button Height="40" Margin="10" Grid.Column="2" Content="Update"  Click="btnUpdate_Click"/>
+            <Button Height="40" Margin="10" Grid.Column="3" Content="Delete" Click="btnDelete_Click"/>
+        </Grid>
+    </Grid>
+</Window>

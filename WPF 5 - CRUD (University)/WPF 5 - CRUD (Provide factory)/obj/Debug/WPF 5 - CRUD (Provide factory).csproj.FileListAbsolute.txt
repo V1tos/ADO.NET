@@ -1,0 +1,19 @@
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\WPF 5 - CRUD (Provide factory).csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\ProfivedFactory.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\App.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\WPF 5 - CRUD (Provide factory)_MarkupCompile.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\WPF 5 - CRUD (Provide factory)_MarkupCompile.lref
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\bin\Debug\WPF 5 - CRUD (Provide factory).exe.config
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\bin\Debug\WPF 5 - CRUD (Provide factory).exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\bin\Debug\WPF 5 - CRUD (Provide factory).pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\bin\Debug\WPF 5 - CRUD (University).exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\bin\Debug\WPF 5 - CRUD (University).pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\bin\Debug\WPF 5 - CRUD (University).exe.config
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\ProfivedFactory.baml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\WPF 5 - CRUD (Provide factory).g.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\WPF_5___CRUD__Provide_factory_.Properties.Resources.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\WPF 5 - CRUD (Provide factory).csproj.GenerateResource.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\WPF 5 - CRUD (Provide factory).csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\WPF 5 - CRUD (Provide factory).csproj.CopyComplete
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\WPF 5 - CRUD (Provide factory).exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 5 - CRUD (University)\WPF 5 - CRUD (Provide factory)\obj\Debug\WPF 5 - CRUD (Provide factory).pdb
