@@ -1,0 +1,15 @@
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\WPF 8 - AddoTables.csprojAssemblyReference.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\MainWindow.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\App.g.cs
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\WPF 8 - AddoTables_MarkupCompile.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\WPF 8 - AddoTables_MarkupCompile.lref
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\bin\Debug\WPF 8 - AddoTables.exe.config
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\bin\Debug\WPF 8 - AddoTables.exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\bin\Debug\WPF 8 - AddoTables.pdb
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\MainWindow.baml
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\WPF 8 - AddoTables.g.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\WPF_8___AddoTables.Properties.Resources.resources
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\WPF 8 - AddoTables.csproj.GenerateResource.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\WPF 8 - AddoTables.csproj.CoreCompileInputs.cache
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\WPF 8 - AddoTables.exe
+D:\ШАГ\Програмування\ADO.Net - HT\WPF 8 - AddoTables\WPF 8 - AddoTables\obj\Debug\WPF 8 - AddoTables.pdb

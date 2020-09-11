@@ -1,0 +1,32 @@
+﻿<Window x:Class="WPF_8___AddoTables.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_8___AddoTables"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Height="419" VerticalAlignment="Bottom">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <TabControl x:Name="tc" SelectionChanged="tc_SelectionChanged"></TabControl>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="btnDelete" Content="Search and delete" Width="130" Height="40" Click="btnDelete_Click"/>
+            <Label x:Name="lblPlaceholder" Grid.Column="1" Content="Enter ID:" VerticalAlignment="Center" Margin="20 0 0 0"/>
+            <TextBox Grid.Column="1" x:Name="tbId" Width="100" Height="40" HorizontalAlignment="Right" Margin="0 0 20 0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+
+            <Button Content="Save to xml" Grid.Column="2" Grid.ColumnSpan="2" Margin="50 5" Click="Button_Click"/>
+
+        </Grid>
+    </Grid>
+</Window>

@@ -93,7 +93,6 @@ namespace WPF_5___CRUD__University_
             int deleteStudentId = student.Id;
             string cmdDelete = $"Delete Student Where Id = {deleteStudentId}";
             SqlCommand command = new SqlCommand(cmdDelete, connection);
-            DeleteFromStudent(command);
             try
             {
                 command.ExecuteNonQuery();
